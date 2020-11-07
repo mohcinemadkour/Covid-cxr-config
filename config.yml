@@ -74,7 +74,7 @@ LIME:
   COVID_ONLY: false
 
 HP_SEARCH:
-  METRICS: ['accuracy', 'loss', 'recall', 'precision', 'auc']
+  METRICS: ['loss', 'recall', 'precision', 'auc']
   COMBINATIONS: 50
   REPEATS: 2
   RANGES:
